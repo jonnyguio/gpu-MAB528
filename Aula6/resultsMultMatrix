@@ -1,0 +1,54 @@
+#1024 - 32
+    Imprimindo sequencial no arquivo:
+    Tempo sequencial = 2.7565478810 seg
+    Tempo paralelo = 0.884803 seg
+    Tempo paralelo com memória compartilhada = 0.5959137536 seg
+
+#2048 - 32
+    Imprimindo sequencial no arquivo:
+    Tempo sequencial = 21.4023676720 seg
+    Tempo paralelo = 4.060326 seg
+    Tempo paralelo com memória compartilhada = 2.6714180297 seg
+
+#4096 - 32
+    Tempo sequencial = 168.0053843290 seg
+    Tempo paralelo = 21.142370 seg
+    Tempo paralelo com memória compartilhada = 10.6744487591 seg
+
+#7000 - 32
+    Imprimindo sequencial no arquivo:
+    Tempo sequencial = 833.6367639490 seg
+    Tempo paralelo = 107.869476 seg
+    Tempo paralelo com memória compartilhada = 47.3024624265 seg
+
+#1024 - 16
+    Tempo paralelo = 0.775741 seg
+    Tempo paralelo com memória compartilhada = 0.5715954817 seg
+
+#2048 - 16
+    Tempo paralelo = 3.168588 seg
+    Tempo paralelo com memória compartilhada = 2.4266867218 seg
+
+#4096 - 16
+    Tempo paralelo = 13.991113 seg
+    Tempo paralelo com memória compartilhada = 8.7573903202 seg
+
+#7000 - 16
+    Tempo paralelo = 73.080054 seg
+    Tempo paralelo com memória compartilhada = 35.3356727322 seg
+
+#1024 - 08
+    Tempo paralelo = 0.705988 seg
+    Tempo paralelo com memória compartilhada = 0.5584589471 seg
+
+#2048 - 08
+    Tempo paralelo = 2.784277 seg
+    Tempo paralelo com memória compartilhada = 2.3144731250 seg
+
+#4096 - 08
+    Tempo paralelo = 12.379455 seg
+    Tempo paralelo com memória compartilhada = 7.8699432410 seg
+
+#7000 - 08
+    Tempo paralelo = 70.872433 seg 
+    Tempo paralelo com memória compartilhada = 31.1093121539 seg
